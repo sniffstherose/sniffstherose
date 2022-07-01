@@ -5,7 +5,7 @@
 # 个人资料：
 
 - 计算机专业本科在读📖
-- from BISTU🏫
+- From BISTU🏫
 - 擅长语言：C、Java……🤖
 - Email：3383876329@qq.com
 
