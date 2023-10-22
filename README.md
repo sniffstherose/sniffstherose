@@ -5,7 +5,7 @@
 # 个人资料：
 
 - 计算机专业本科在读📖
-- From BISTU🏫
+- From [BISTU🏫](https://www.bistu.edu.cn/)
 - 大三摆烂专家
 - Email：3383876329@qq.com
 
