@@ -1,4 +1,4 @@
-# Welcome to my home page
+# 看吧看吧
 
 ---
 
@@ -6,9 +6,8 @@
 
 - 计算机专业本科在读📖
 - From [BISTU🏫](https://www.bistu.edu.cn/)
-- 大三摆烂专家
+- 大四摆烂专家
 - Email：3383876329@qq.com
-
 - 电话：+8618315281762
 
 # 参与的项目：
@@ -17,9 +16,8 @@
 
 # 个人博客：
 
-点这里：[个人博客](https://sniffstherose.github.io/)
+点这里：[个人博客](https://tryanel.github.io/)
 
-# 好了，就说这么多
 
 ## 感谢您的支持
 
