@@ -13,7 +13,9 @@
 # 一些杂七杂八的项目：
 
 [2022开源软件开发技术线上实践：KNN、KMP算法实现手写汉字识别](https://github.com/Bistu-OSSDT-2022/Legendr)
+
 [斯坦福大学CS144计网大作业：手写TCP](https://github.com/sniffstherose/minnow)
+
 [基于Elasticsearch搜索引擎实现网盘系统](https://github.com/doufangyi/wangpan)
 
 # 个人博客：
